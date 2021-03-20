@@ -66,9 +66,9 @@ Flag options:
 - **-c :** stops the program from opening the Graphical Interface.
 - **--file :** retrieve the sequence from a file in fasta format.
 - **--sequence :** input a sequence.
-- **--kmer : ** integer representing the size of the fragments.
+- **--kmer :** integer representing the size of the fragments.
 - **--draw_graph :** creates a png file containing a De Bruijn Graph.
-- **--out : ** file name which the De Bruijn Graph will be saved.
+- **--out :** file name which the De Bruijn Graph will be saved.
 
 When the program is used via command line, the flags **--file** or **--sequence**, and **--kmer** are mandatory. 
 
