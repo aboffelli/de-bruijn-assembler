@@ -1,4 +1,4 @@
-# READ ME - De Bruijn Assembler
+# README - De Bruijn Assembler
 
 
 
