@@ -15,11 +15,14 @@ import random
 ################################################################################
 # Argparse set up.
 
-usage = '''This program is designed to split a DNA sequence into fragments of size chosen by the user (kmer). 
-The fragments are reassembled using the De Bruijn Graph approach, that is based on the overlapping fragments. 
-To run the program using the Graphical User Interface use: python bruijn_assembler.py
-To run the program using the command line use -c. The arguments --file or --sequence, and --kmer are mandatory.
-The arguments --draw_graph and --out are optional.
+usage = '''This program is designed to split a DNA sequence into fragments of 
+size chosen by the user (kmer). The fragments are reassembled using the De 
+Bruijn Graph approach, that is based on the overlapping fragments.\n 
+To run the program using the Graphical User Interface use: python 
+bruijn_assembler.py\n
+To run the program using the command line use -c. The arguments --file or 
+--sequence, and --kmer are mandatory.\n
+The arguments --draw_graph and --out are optional.'''
 '''
 parser = argparse.ArgumentParser(description=usage)
 
