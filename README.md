@@ -47,7 +47,7 @@ The contents of the initial window of the Graphical Interface are detailed below
 
 - **Sequence box:** text box where the sequence can be inserted.
 - **Kmer box:** text box to insert the kmer size.
-- **Checkbox** to create a De Bruijn Graph as png. If selected, after submitting, a save file window will appear, so you can choose the name and where to save your png image. The file opens automatically after created.
+- **Checkbox** to create a De Bruijn Graph as png. If selected, after submitting, a save file window will appear, so you can choose the name and where to save your png image. The image file opens automatically after created.
 - **Open file button:** open a file selection window and retrieve the sequence from the selected file. The file must be in fasta format, otherwise it will not be read.
 - **Submit button:** retrieve the information and continue for the result window.
 - **Clear button:** clear both the sequence box and the kmer box.
