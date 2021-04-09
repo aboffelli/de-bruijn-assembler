@@ -26,6 +26,7 @@ The installation of *graphviz* is done using pip, so make sure you have pip inst
 # check if pip is installed
 pip help
 # if the help option appears, continue to graphviz installation, otherwise install pip first.
+# install graphviz
 pip install graphviz==0.16
 ```
 
