@@ -3,6 +3,7 @@
 """
 Title: De Bruijn Assembler
 
+Created on: Mon Mar 08, 2021
 Author: Arthur Boffelli Castro
 """
 from graphviz import Digraph
